@@ -1,0 +1,35 @@
+#container{
+    background-color:azure;
+    margin:0px auto;
+    height:100%;
+    width:60%;
+    padding-bottom:100px;
+}
+body{
+    background-color:aquamarine;
+}
+#header{
+    height:60px;
+    background-color:aqua;
+}
+#container p li{
+margin-left:40px;
+    list-style-position:center;
+}
+#header h2{
+    margin-top:30px;
+    text-align:center;
+
+}
+
+    
+.icon{
+    color:red;
+
+}
+.fa-linkedin {
+    background:#e2dfe2;
+    color:rgba(214, 8, 76, 0.856);
+    
+    
+}
